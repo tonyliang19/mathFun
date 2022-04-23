@@ -1,0 +1,13 @@
+Package: mathFun
+Title: Frequent math functions
+Version: 0.0.0.9000
+Authors@R: 
+    person("Tony","Liang",,"chunqingliang@gmail.com", role = c("aut", "cre"))
+Description: This packages contains some ordinary functions of math and makes our life easier by using these abstract functions.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
