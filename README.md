@@ -4,6 +4,8 @@
 # mathFun
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/tonyliang19/mathFun/workflows/R-CMD-check/badge.svg)](https://github.com/tonyliang19/mathFun/actions)
 <!-- badges: end -->
 
 The goal of mathFun is to …
